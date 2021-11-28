@@ -1,1 +1,1 @@
-conf device
+device
